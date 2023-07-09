@@ -1,4 +1,4 @@
-# BlogPosts @ https://gentle-journey-32810.herokuapp.com/
+# BlogPosts @ https://blogpost-mongo-crud.onrender.com
 
 An website that allow to post blogs , save them, display them in real time with cloud DB.
 
